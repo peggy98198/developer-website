@@ -1,0 +1,5 @@
+{
+  "name": "Developer Portfolio Website",
+  "description": "A modern, single-page developer portfolio website designed for App Store submissions. It showcases apps, provides support information, and includes a Gemini-powered privacy policy generator.",
+  "requestFramePermissions": []
+}
